@@ -1,0 +1,15 @@
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.AssemblyInfo.cs
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.exe
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.deps.json
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.runtimeconfig.json
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.dll
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\bin\Debug\net5.0\ref\CatsAndDogs.dll
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\bin\Debug\net5.0\CatsAndDogs.pdb
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.dll
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\obj\Debug\net5.0\ref\CatsAndDogs.dll
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.pdb
+C:\Users\Laptop\Documents\TKTK\Personality Test\CatsAndDogs\obj\Debug\net5.0\CatsAndDogs.genruntimeconfig.cache
